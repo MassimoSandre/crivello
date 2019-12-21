@@ -1,0 +1,62 @@
+.title {
+    font-family: Verdana, Geneva, sans-serif;
+    opacity: 0.87;
+    margin-bottom: 0px;
+}
+
+.subtitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0.4;
+    margin-top: 0px;
+}
+
+#table {
+    padding: 40px;
+    padding-top:10px;
+    border-collapse: separate;
+}
+
+.generic {
+    background: black;
+    color: white;
+    opacity: 0.70;
+    font-size: 30px;
+    border-radius: 5px;
+    padding:10px;
+}
+
+.deleted {
+    background-color: black;
+    color: black;
+    opacity: 0.70;
+    font-size: 30px;
+    border-radius: 5px;
+    padding:10px;
+}
+
+.prime {
+    font-size: 30px;
+    color: green;
+}
+
+.update {
+    background-color: black;
+    color: white;
+    border: black solid 1px;
+    font-size: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    opacity: 0.77;
+    margin-left:40px;
+}
+
+.off {
+    background-color: black;
+    color: white;
+    border: black solid 1px;
+    font-size: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    opacity: 0.30;
+    margin-left:40px;
+}
